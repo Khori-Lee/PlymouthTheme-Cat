@@ -1,5 +1,5 @@
 # PlymouthTheme-Cat
-Plymouth theme sources from krishnan793
+Plymouth theme sources from krishnan793 used for pkgbuild
 
 [![Video](https://4.bp.blogspot.com/-gG0MBGjEE9M/WBYXrOGrVGI/AAAAAAAABVE/auGpLRYf7jor4hu3jurYGcjaVBapHyAVACLcB/s320/8998adc40112985a8f29cf414925d390.gif)](https://www.youtube.com/watch?v=c6f478VBhtE)
 
