@@ -8,6 +8,12 @@ Plymouth theme sources from krishnan793 used for pkgbuild
 
 [Blog] https://www.eionix.co.in/2016/10/30/plymouth-theme-for-ubuntu.html
 
+[![Video](https://github.com/krishnan793/PlymouthTheme-TheRun/blob/master/images/PlymouthTheme-TheRun.gif?raw=true)](https://youtu.be/yNW1hTyDe5U)
+
+[Video] https://youtu.be/yNW1hTyDe5U
+
+[Blog] https://www.eionix.co.in/2016/11/02/this-is-another-theme-i-created-for.html
+
 # Installation
 
 Clone this repository.
